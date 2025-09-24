@@ -3,7 +3,7 @@
  * Plugin Name: Healthcare Appointment Scheduler
  * Description: Appointment scheduling system for healthcare specialists.
  * Version: 1.0
- * Author: Your Name
+ * Author: PremierJessie Devs
  */
 
 defined('ABSPATH') or die('No script kiddies please!');
